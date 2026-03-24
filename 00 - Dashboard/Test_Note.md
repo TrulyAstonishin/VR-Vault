@@ -9,9 +9,9 @@ To print out a file into a Linux Terminal you use the command Cat
 To feed an output as an input to another command you use a Pipe (|)
 
 
-
 #flashcards
-24 hours in a day :: A whole day has 24 hours
-The Japanese language is called 日本語 :: The native name of the Japanese language is Nihongo
-To print out a file into a Linux Terminal you use the command Cat :: To display the contents of a file in Linux, use the cat command
-To feed an output as an input to another command you use a Pipe (|) :: To connect the output of one command as the input of another command in Unix/Linux, use the pipe symbol |
+How many hours are in a day? :: 24
+What is the powerhouse of the cell called? :: Mitochondria
+What language is called 日本語? :: Japanese
+What command do you use to print out a file into a Linux Terminal? :: Cat
+What character do you use to feed an output as an input to another command in Linux? :: Pipe (|)

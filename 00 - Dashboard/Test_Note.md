@@ -1,6 +1,10 @@
 The Mitochondria is the powerhouse of the cell.
 
-There are actually 23 hours and 56 minutes in a day.
+## Flashcards
+#flashcards
+Mitochondria :: The powerhouse of the cell
+
+There are 24 hours in a day.
 
 The Japanese language is called 日本語
 
